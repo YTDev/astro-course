@@ -1,7 +1,7 @@
 /* empty css                          */
 import { e as createAstro, f as createComponent, r as renderTemplate, m as maybeRenderHead, h as addAttribute, i as renderComponent } from '../astro_CyGHsmC9.mjs';
 import 'kleur/colors';
-import { c as capitalize, g as getEntry, f as formatDate, $ as $$MainLayout } from './404_BWRa6bim.mjs';
+import { c as capitalize, g as getEntry, f as formatDate, $ as $$MainLayout } from './404_Z4-HPPc5.mjs';
 import 'clsx';
 /* empty css                           */
 
